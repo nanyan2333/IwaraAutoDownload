@@ -1,0 +1,14 @@
+protocols: https
+port: 7890
+ip: 127.0.0.1
+email: 961870173@qq.com
+# noinspection SpellCheckingInspection
+password: chenzixin2003611
+url: https://ecchi.iwara.tv
+target_dir: E:\nanako\video\
+chunk_size: 1048576
+interval_time: 5
+query_type:
+  - video
+  - user
+
